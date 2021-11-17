@@ -1,3 +1,3 @@
 # Assignments Repository
 
-Contains all assignments / lab works done in college
+Contains all progamming assignments / lab works done in college
